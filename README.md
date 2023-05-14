@@ -70,7 +70,7 @@ NAND:
 ![image](https://github.com/Sangavi-suresh/Experiment--02-Implementation-of-combinational-logic-/assets/118541861/bfb59130-485c-454c-b709-f7edb5678a7e)
 
 NOR:
-![image](https://github.com/Sangavi-suresh/Experiment--02-Implementation-of-combinational-logic-/assets/118541861/cc94ce06-e5b9-4dd8-848a-bc1d173147e0)
+![image](https://github.com/Sangavi-suresh/Experiment--02-Implementation-of-combinational-logic-/assets/118541861/30b2a026-f5ac-4029-a356-b5a6bf620652)
 
 ## Output:
 NAND:
