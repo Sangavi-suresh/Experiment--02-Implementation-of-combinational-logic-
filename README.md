@@ -71,18 +71,19 @@ NAND:
 ![image](https://github.com/Sangavi-suresh/Experiment--02-Implementation-of-combinational-logic-/assets/118541861/bfb59130-485c-454c-b709-f7edb5678a7e)
 
 NOR:
-![image](https://github.com/Sangavi-suresh/Experiment--02-Implementation-of-combinational-logic-/assets/118541861/30b2a026-f5ac-4029-a356-b5a6bf620652)
+![image](https://github.com/Sangavi-suresh/Experiment--02-Implementation-of-combinational-logic-/assets/118541861/2ce21763-9285-4186-8688-85d9fd697204)
+
 
 ## Output:
 NAND:
 ![image](https://github.com/Sangavi-suresh/Experiment--02-Implementation-of-combinational-logic-/assets/118541861/9dc7670c-c420-4324-a9f5-0b9a8153e0ff)
 
 NOR:
-![image](https://github.com/Sangavi-suresh/Experiment--02-Implementation-of-combinational-logic-/assets/118541861/0439442e-d8ec-4be2-b422-bd09d542e988)
+![image](https://github.com/Sangavi-suresh/Experiment--02-Implementation-of-combinational-logic-/assets/118541861/4cf46794-fcfe-4ff2-8310-91f0bb00ce8f)
 
 ## Timing Diagram:
 NAND:
-![image](https://github.com/Sangavi-suresh/Experiment--02-Implementation-of-combinational-logic-/assets/118541861/957ee336-86f7-4b84-99a5-bfbb0cf45e2f)
+![image](https://github.com/Sangavi-suresh/Experiment--02-Implementation-of-combinational-logic-/assets/118541861/bd777c6c-4959-4a03-b273-965ecde1bd95)
 
 NOR:
 ![image](https://github.com/Sangavi-suresh/Experiment--02-Implementation-of-combinational-logic-/assets/118541861/4d32ce0b-8a09-4381-899a-2476c9d7d221)
