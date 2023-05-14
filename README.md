@@ -67,6 +67,7 @@ endmodule
 
 ## RTL realization:
 NAND:
+
 ![image](https://github.com/Sangavi-suresh/Experiment--02-Implementation-of-combinational-logic-/assets/118541861/bfb59130-485c-454c-b709-f7edb5678a7e)
 
 NOR:
